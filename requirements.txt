@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+pytest
+pytest-html
+pytest-xdist #for parallel browser excution
+openpyxl
+# optional
+Allure-pytest
+# pip3 install -r requirements
